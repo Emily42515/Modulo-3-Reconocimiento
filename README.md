@@ -3,6 +3,7 @@ Tarea del Módulo 3: Reconocimiento Pasivo y Activo Básico
 # Parte 1 – Reconocimiento Pasivo con Google Dorks
 
 Para esto, realizé 8 diferentes tipos de búsqueda usando google dorks los cuales fueron con:
+
   1.-site:
   2.-filetype:
   3.-inurl:
