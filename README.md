@@ -22,4 +22,11 @@ Todo esto lo documente en un pdf de word (Véase en este repositorio), el cuál 
 
 # Parte 2 – Investigación en GHDB
 
-Para esto entré a GHDB y en exploid data base
+Para esto entré a GHDB y en exploid data base y realizé la búsqueda de 3 dorks:
+
+1.- intitle: “index of” password
+2.- filetype:sql "MySQL dump"
+3.- inurl: phpmyadmin/index.php
+
+En el mismo pdf de word, expliqué que busca, que tipo de exposición detectan y en que categoría están cada uno, además de su respectiva captura de pantalla como evidencia.
+
