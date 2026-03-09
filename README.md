@@ -54,4 +54,13 @@ Fui tomando capturas de el proceso en que se realizó este grafo, las cuales se 
 
 - Esto, se realizó con el objetivo de visualizar como se conecta la infreestructura
 
+# Parte 4 – Reflexión
+
+Al final del pdf de word, hice una pequeña reflexión de una cuartilla sobre:
+
+- Diferencia entre reconocimiento pasivo y activo.
   
+- ¿Por qué el reconocimiento sin autorización puede ser ilegal?
+
+- ¿Qué aprendiste sobre la exposición de información?
+
